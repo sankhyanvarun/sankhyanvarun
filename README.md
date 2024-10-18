@@ -35,8 +35,8 @@
 - I love to participate in hackathons and solve competitive programming challenges!
   
 ## 📫 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/varun-sankhyan)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/varun-sankhyan/)
 - **Email**: [E-Mail](mailto:your-email@example.com)
-- **Portfolio**: [sankhyanvarun.github.io/Portfolio/](https://sankhyanvarun.github.io/Portfolio/)
+- **Portfolio**: [Portfolio](https://sankhyanvarun.github.io/Portfolio/)
 
 Thanks for visiting my profile! 😊
