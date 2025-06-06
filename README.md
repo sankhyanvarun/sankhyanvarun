@@ -22,9 +22,6 @@
 - 🎥 **Deepfake Detection**  
   A model for detecting fake videos using **CNNs** and **LSTMs**, leveraging a structured dataset of real and fake videos.
 
-- 💼 **Portfolio Website**  
-  Created a personal portfolio website showcasing my projects, skills, and achievements. Built with **HTML/CSS** and **JavaScript**, hosted on [GitHub Pages](https://your-portfolio.com).
-
 - ✋ **Hand Gesture Recognition with OpenCV**  
   A project using **OpenCV** and machine learning to recognize various hand gestures in real time. Applied to control a voice assistant and other applications.
 
